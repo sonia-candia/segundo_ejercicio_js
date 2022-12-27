@@ -1,0 +1,12 @@
+{
+  "name": "segundo_ejercicio.js",
+  "version": "1.0.0",
+  "description": "Segundo ejercicio del curso de Javascript de OpenBootcamp",
+  "main": "index.js",
+  "scripts":{
+    "tipos": "tipos_datos.js",
+    "test":"error: no test specified\" && exit 1"
+  },
+  "author": "Candia Sonia",
+  "license": "ISC"
+}
